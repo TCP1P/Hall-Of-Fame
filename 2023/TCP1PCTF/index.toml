@@ -61,22 +61,22 @@ url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/8ee6b9d1beb
 job = "Reverse Engineering Category Challenge Author"
 url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/4ddecb6e0e8d74acfa1512607063f0a983d50243e166bac12e8a588035b33cbe.pdf"
 
-[daffainfo]
-[[daffainfo.jobs]]
+["Muhammad Daffa"]
+[["Muhammad Daffa".jobs]]
 job = "Forensic Category Challenge Author"
-url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/89942647815ec5eea6cab8881a53f6c68661f67121e0ffeea215734d25eb76af.pdf"
+url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/7d73f9d40856027e00bf9b5d632db79aa90226ac8b8d408b2409a5f90ca9c321.pdf"
 
-[[daffainfo.jobs]]
+[["Muhammad Daffa".jobs]]
 job = "Forensic Category Supervisor"
-url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/cd35155b36114a68bdc3e53811e7d96ee99194498c7b29770d67baeea25e863b.pdf"
+url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/7e83b1d07fae5ddf3041ea5ca6b85906e2aafb0f275ab84630e41bf8adb912be.pdf"
 
-[[daffainfo.jobs]]
+[["Muhammad Daffa".jobs]]
 job = "Misc Category Challenge Author"
-url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/b11770fc8941625698865b0d127bf7de0673096bc85105a9e1d787268e0c06ca.pdf"
+url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/3c2f1af6f51757b57b7e7a4dc562ebfa12a7af79d70d5ad944f554e427beb3c8.pdf"
 
-[[daffainfo.jobs]]
+[["Muhammad Daffa".jobs]]
 job = "Web Exploitation Category Challenge Author"
-url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/581802f34ef36c93e71e45577779314a127e326a0f7bd88888da11d65e181037.pdf"
+url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/13a03d0a01aa39ff6deee599411378618ce7d4cc1567308cfac6b0eaead005e9.pdf"
 
 ["Dimas Maulana"]
 [["Dimas Maulana".jobs]]
@@ -95,10 +95,10 @@ url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/7b6677ad8c6
 job = "Web Exploitation Category Supervisor"
 url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/9deae95fa8a3f82bae029c4b5f4dd164aff49c1cfc640a0e45ca2b24873a575d.pdf"
 
-[kiseki]
-[[kiseki.jobs]]
+["Muhammad Azril Fathoni"]
+[["Muhammad Azril Fathoni".jobs]]
 job = "Web Exploitation Category Challenge Author"
-url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/50e9fd9c9250e8786f5689dd9cb3f6814517ea403a4a1c2fd071e1dcdde0d049.pdf"
+url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/18dec2f8636a38c86d3a047050da8a584416075a2442fafd2d8c19fc3672086b.pdf"
 
 [lunaroa]
 [[lunaroa.jobs]]
@@ -152,12 +152,12 @@ url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/5adcc2028a0
 
 ["tachibana rui"]
 [["tachibana rui".jobs]]
-job = "PWN Category Challenge Author"
-url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/a1713b2fabb37fcd3fca6e18cd3ab7ef2e70b8bcdcee4ab87b78ba608b697a03.pdf"
-
-[["tachibana rui".jobs]]
 job = "Reverse Engineering Category Challenge Author"
 url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/2e1df219e05830b5444366803761116a1496241e4b8ef32cff77b60568735d53.pdf"
+
+[["tachibana rui".jobs]]
+job = "PWN Category Challenge Author"
+url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/a1713b2fabb37fcd3fca6e18cd3ab7ef2e70b8bcdcee4ab87b78ba608b697a03.pdf"
 
 [underzero]
 [[underzero.jobs]]
@@ -176,3 +176,4 @@ url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/25b4c9b0084
 [["Numero Uno Arroefy".jobs]]
 job = "PWN Category Challenge Author"
 url = "https://github.com/TCP1P/Hall-Of-Fame/tree/main/2023/TCP1PCTF/889db3a8ef974588571f5f37f5a473c1335a291dc39be95623a32607e46dc820.pdf"
+
